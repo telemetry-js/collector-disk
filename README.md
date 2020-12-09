@@ -3,7 +3,7 @@
 > **Collect disk metrics.**  
 > A [`telemetry`](https://github.com/telemetry-js/telemetry) plugin.
 
-[![npm status](http://img.shields.io/npm/v/telemetry-js/collector-disk.svg)](https://www.npmjs.org/package/@telemetry-js/collector-disk)
+[![npm status](http://img.shields.io/npm/v/@telemetry-js/collector-disk.svg)](https://www.npmjs.org/package/@telemetry-js/collector-disk)
 [![node](https://img.shields.io/node/v/@telemetry-js/collector-disk.svg)](https://www.npmjs.org/package/@telemetry-js/collector-disk)
 [![Test](https://github.com/telemetry-js/collector-disk/workflows/Test/badge.svg?branch=main)](https://github.com/telemetry-js/collector-disk/actions)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -44,7 +44,7 @@ npm install @telemetry-js/collector-disk
 
 ## Acknowledgements
 
-This project is kindly sponsored by [Reason Cybersecurity Inc](https://reasonsecurity.com).
+This project is kindly sponsored by [Reason Cybersecurity Ltd](https://reasonsecurity.com).
 
 [![reason logo](https://cdn.reasonsecurity.com/github-assets/reason_signature_logo.png)](https://reasonsecurity.com)
 
